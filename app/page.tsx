@@ -23,7 +23,7 @@ export default function Home() {
           <h3> - No Insider Allocations</h3>
           <h2>*No minting</h2>
           <h3> - Token can only be burned</h3>
-          <div className={styles.glossyButton}>B U Y</div>
+          <div className={styles.glossyButton}>SOON</div>
         </div>
         <Image className={styles.frog}
             src="/body2.png"
