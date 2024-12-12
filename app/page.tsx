@@ -23,7 +23,11 @@ export default function Home() {
           <h3> - No Insider Allocations</h3>
           <h2>*No minting</h2>
           <h3> - Token can only be burned</h3>
-          <div className={styles.glossyButton}>SOON</div>
+
+          <Link href="https://pump.fun/coin/2j8rZTD4oZJx1U1eWcMkPiFktBfBqukVSvS5MBKnpump">
+            <div className={styles.glossyButton}>B U Y</div>
+          </Link>
+          
         </div>
         <Image className={styles.frog}
             src="/body2.png"
@@ -53,7 +57,7 @@ export default function Home() {
                   width={100}
                   height={100}/>
           </Link>
-          <Link href="https://x.com/froggsternaut">
+          <Link href="https://pump.fun/coin/2j8rZTD4oZJx1U1eWcMkPiFktBfBqukVSvS5MBKnpump">
             <Image
                   src="/pump.png"
                   alt="pomp.fun"
